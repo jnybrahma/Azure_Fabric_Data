@@ -1,0 +1,6 @@
+OrderID,CustomerID,OrderDate,Product,Quantity,Price
+2001,C001,2020-01-18,Widget A,1,26.00
+2002,C006,2020-02-25,Widget D,4,15.00
+2003,C003,2020-03-10,Widget C,3,11.00
+2004,C007,2020-04-15,Widget B,2,42.00
+2005,C008,2020-05-22,Widget E,5,12.50
