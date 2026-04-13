@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,ListPrice
+1001,Wireless Mouse,Electronics,25.99
+1002,Mechanical Keyboard,Electronics,79.50
+1003,USB-C Charger,Electronics,19.95
+1004,Office Chair,Furniture,149.99
+1005,Standing Desk,Furniture,299.00
+1006,Notebook A5,Stationery,4.75
+1007,Ballpoint Pen Pack,Stationery,6.20
+1008,Water Bottle 1L,Accessories,12.00
+1009,Backpack 20L,Accessories,45.00
+1010,LED Desk Lamp,Electronics,34.99
