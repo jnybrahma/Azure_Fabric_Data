@@ -1,4 +1,3 @@
-''' pyspark code for Spark Job Definition to automate streaming'''
 from pyspark.sql import SparkSession
 from pyspark.sql.types import StructField, StructType, StringType
 spark = SparkSession.builder.getOrCreate()
